@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+p {
+  color: red;
+  font-size: 20px;
+  font: bolder;
+}
+h1 {
+  color: rgb(187, 48, 241);
+  font-size: 30px;
+  font-family: cursive;
+  font-style: oblique;
+}
+button {
+  color-interpolation-filters: inherit;
+}
